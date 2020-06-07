@@ -3,7 +3,7 @@
 * [cmyk](https://claudietajerez.github.io/cmyk-/)
 * [Broom](https://claudietajerez.github.io/Broom/)
 * [Artist](https://claudietajerez.github.io/artist/)
-* [Targetes](https://claudietajerez.github.io/targetes/)
+* [Tarjetes](https://claudietajerez.github.io/targetes/)
 * [Grid](https://claudietajerez.github.io/grid/)
 * [Landing Page](https://claudietajerez.github.io/landingpage/)
 * [Mondrian](https://claudietajerez.github.io/mondrian/)
